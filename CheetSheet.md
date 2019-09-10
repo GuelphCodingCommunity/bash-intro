@@ -44,6 +44,7 @@ There are some special location symbols
 | `.` | current directory |
 | `..` | parrent direcotry |
 | `/` | root (top) directory|
+| `-` | previous directory |
 
 
 ### touch
